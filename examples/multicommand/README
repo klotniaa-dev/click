@@ -1,0 +1,11 @@
+$ multicommand_
+
+  multicommand is a simple example of a command group with
+  subcommands, shared options, typed arguments, and options
+  read from environment variables.
+
+Usage:
+
+  $ pip install --editable .
+  $ multicommand --help
+
